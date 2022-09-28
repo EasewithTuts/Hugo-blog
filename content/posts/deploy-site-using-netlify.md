@@ -1,6 +1,6 @@
 ---
 title: "Deploy A Site With Netlify using a Git Repo"
-date: 2021-12-01T22:50:26Z
+date: 2022-09-28
 draft: false
 ---
 
