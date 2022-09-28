@@ -1,0 +1,4 @@
+baseURL = 'localhost:8000'
+languageCode = 'en-us'
+title = 'Ease With Tutorials'
+theme = "etch" 
