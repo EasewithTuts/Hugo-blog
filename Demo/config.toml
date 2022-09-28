@@ -1,4 +1,4 @@
-baseURL = 'localhost:8000'
+baseURL = ''
 languageCode = 'en-us'
 title = 'Ease With Tutorials'
 theme = "etch" 
